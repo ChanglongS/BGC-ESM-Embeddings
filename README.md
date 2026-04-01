@@ -1,1 +1,0 @@
-# BGC-ESM-Embeddings
